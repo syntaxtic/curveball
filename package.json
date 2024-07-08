@@ -1,0 +1,11 @@
+{
+  "name": "curveball",
+  "version": "0.0.1",
+  "type": "module",
+  "author": "Stewie Griffin",
+  "dependencies": {
+    "@curveball/bodyparser": "^1.0.0",
+    "@curveball/core": "^1.0.0",
+    "@curveball/router": "^1.0.0"
+  }
+}
